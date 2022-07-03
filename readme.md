@@ -47,7 +47,7 @@ Run src/main/java/com/edtech/edtech/EdtechApplication Main Application
 ```
 5. Import Postman Collection
 ```
-Use sdk debug run
+Copy from postman/spring-fun.postman_collection.json
 ```
 6. Test API
 ```
