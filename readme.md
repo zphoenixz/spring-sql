@@ -4,7 +4,7 @@ This is a simple REST API that allows Users to Suscribe and Unsuscribe to Subjec
 
 #### Entity Relationship Diagram
 <p align="center">
-<img src="https://github.com/zphoenixz/mobile-fun/blob/master/captures/ERD.png" width="500" height="200">
+<img src="https://github.com/zphoenixz/spring-sql/blob/master/captures/ERD.png" width="500" height="200">
 </p>
 
 #### Design Features
