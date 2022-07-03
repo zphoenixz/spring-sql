@@ -23,6 +23,7 @@ This is a simple REST API that allows Users to Suscribe and Unsuscribe to Subjec
 * SpringBoot 2.7.1
 * MySQL 8
 * Tested on Local Env only
+* Api yml is available at {{host}}/api-docs.yaml
 
 ## Running
 0. Prerequisites
@@ -37,21 +38,21 @@ git clone git@github.com:zphoenixz/spring-sql.git
 ```
 cd spring-sql
 ```
-3. Start Spring Application
+3. Start MySQL
+```
+
+```
+4. Start Spring Application
 ```
 Run src/main/java/com/edtech/edtech/EdtechApplication Main Application
 ```
-4. Start MySQL
-```
-
-```
-5. Import Postman Collection
+5. Import Postman Collection (optional)
 ```
 Copy from postman/spring-fun.postman_collection.json
 ```
-6. Test API
+6. Test API, either through the postman Collection or the Swagger UI:
 ```
-
+{{host}}/swagger-ui/index.html
 ```
 
 ## My comments
