@@ -41,13 +41,17 @@ cd spring-sql
 ```
 Run src/main/java/com/edtech/edtech/EdtechApplication Main Application
 ```
-4. Start
+4. Start MySQL
 ```
-Run src/main/java/com/edtech/edtech/EdtechApplication Main Application
+
 ```
-5Import Postman Collection
+5. Import Postman Collection
 ```
 Use sdk debug run
+```
+6. Test API
+```
+
 ```
 
 ## My comments
